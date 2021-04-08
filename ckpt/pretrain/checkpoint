@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-5"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-1"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-2"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-3"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-4"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/ckpt/pretrain.ckpt-5"

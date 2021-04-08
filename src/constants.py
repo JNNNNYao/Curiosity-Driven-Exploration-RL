@@ -1,0 +1,15 @@
+constants = {
+'GAMMA': 0.99,
+'LAMBDA': 1.0,
+'ENTROPY_BETA': 0.001,
+'UPDATE_ITER': 80,
+'REWARD_CLIP': 0.1,
+'TRAINING_STEPS': 9e6,
+'LR': 7e-4,
+'ICM_LR': 1e-4,
+'PREDICTION_BETA': 0.01,
+'FORWARD_LOSS_WT': 0.2,
+'FRAME_SHAPE': (42, 42),
+'FRAME_SKIP':4,
+'N_A': 3,
+}

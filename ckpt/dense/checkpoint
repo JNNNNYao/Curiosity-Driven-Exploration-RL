@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/MyDrive/ICM/project/ckpt/dense/ICM.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/MyDrive/ICM/project/ckpt/dense/ICM.ckpt"
